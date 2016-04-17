@@ -3,3 +3,4 @@
 3. puppet学习
 4. 负载均衡
 5. Nginx
+6. git
